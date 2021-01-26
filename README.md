@@ -7,7 +7,7 @@ Computer Vision Research Engineer with 3+ years experience in deep learning: fro
 Im a currenlty looking for a new job as deep learning research engineer (Computer vision, NLP,...).
 You can checkout my [linkedin](https://www.linkedin.com/in/emilien-garreau-b87606ab/).
 
-### What are my projects
+### My projects
 
 ##### Kerod (Keras Object Detection)
 
