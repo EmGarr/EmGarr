@@ -17,7 +17,7 @@ You can checkout my [linkedin](https://www.linkedin.com/in/emilien-garreau-b8760
 #### Contributions
 
 - Tensorflow multiple issues
-- [Prefect](https://github.com/PrefectHQ/prefect) an awesome, Airflow like (but more pythonic) orchestration library.
+- [Prefect](https://github.com/PrefectHQ/prefect), Airflow like (but more pythonic), an awesome orchestration library.
 
 ### Miscellaneous
 
