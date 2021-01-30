@@ -4,7 +4,7 @@
 
 Computer Vision Research Engineer with 3+ years experience in deep learning: from research to implementation and design of R&D infrastructure. I built a big part of the computer vision stack at [Heuritech](https://www.heuritech.com/), a company specialized in the daily analysis of millions of images from social media to predict the future of fashion trends.
   
-Im a currenlty looking for a new job as deep learning research engineer (Computer vision, NLP,...).
+I am currenlty looking for a new job as deep learning research engineer (Computer vision, NLP,...).
 You can checkout my [linkedin](https://www.linkedin.com/in/emilien-garreau-b87606ab/).
 
 ### My projects
