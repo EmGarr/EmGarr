@@ -21,6 +21,6 @@ You can checkout my [linkedin](https://www.linkedin.com/in/emilien-garreau-b8760
 
 ### Miscellaneous
 
-- 🔭 I’m currently working on an implementation of [Deformable DETR: Deformable Transformers for End-to-End Object Detection](https://arxiv.org/abs/2010.04159)
+- 🔭 I’m currently working on an implementation of [Fast Convergence of DETR with Spatially Modulated Co-Attention](https://arxiv.org/abs/2101.07448v1)
 - 📫 How to reach me: emilien.garreau@gmail.com
 - ⚡ Fun fact: [Spacemacs](https://github.com/syl20bnr/spacemacs) evangelist 
