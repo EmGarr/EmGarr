@@ -11,7 +11,7 @@ You can checkout my [linkedin](https://www.linkedin.com/in/emilien-garreau-b8760
 
 ##### Kerod (Keras Object Detection)
 
-- Pure tensorflow 2.X implementation of object detection algorithms (Faster R-CNN, Object Detection with Transformers, Deformable Detr...).
+- Pure tensorflow 2.X implementation of object detection algorithms (Faster R-CNN, Object Detection with Transformers, ...).
 - Aims to build a **clear**, reusable, **tested**, **simple** and **documented** codebase for production or pedagogical purposes.
 
 #### Contributions
