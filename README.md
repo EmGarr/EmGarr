@@ -2,7 +2,7 @@
 
 ### Who am I
 
-Computer Vision Research Engineer with 3+ years experience in deep learning: from research to implementation and design of R&D infrastructure. I built a big part of the computer vision stack at [Heuritech](https://www.heuritech.com/), a company specialized in the daily analysis of millions of images from social media to predict the future of fashion trends.
+Computer Vision Research Engineer with 4+ years experience in deep learning: from research to implementation and design of R&D infrastructure. I built a big part of the computer vision stack at [Heuritech](https://www.heuritech.com/), a company specialized in the daily analysis of millions of images from social media to predict the future of fashion trends.
   
 You can checkout my [linkedin](https://www.linkedin.com/in/emilien-garreau-b87606ab/).
 
